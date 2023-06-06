@@ -1,0 +1,17 @@
+header{
+    padding: 10px 5%;
+    background-color: white;
+}
+.images{
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+}
+*{
+    margin: 0;
+}
+article{
+    background-image: url(backgr.jpg);
+}
+nav{
+    color: #000;
+}

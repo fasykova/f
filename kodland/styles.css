@@ -1,0 +1,243 @@
+body{
+    background-image: url(images/backgr.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.logo img {
+    margin: 10px;
+    float: left;
+    width: 70px;
+    height: 70px;
+}
+a{
+    color: rgb(255, 253, 253);
+    font-size: small;
+}
+nav{
+    text-align: center;
+    word-spacing: 15px;
+}    
+a{
+    text-decoration: none;
+}
+.menu img{
+    float: right;
+    width: 27px;
+    height: 20px;
+}
+.pustota{
+    width: 37px;
+    height: 150px;
+}
+.text0{
+    margin: 40px;
+}
+h1{
+    width: 1331px;
+    height: 88px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 47px;
+    line-height: 57px;
+    color: #FFFAFA;
+}
+.text0 p{
+    width: 1190px;
+    height: 78px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    line-height: 33px;
+    color: #FFF9F9; 
+}
+button{
+    font-weight: 550;
+    width: 200px;
+    height: 52px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #D8743B;
+    color: #350303;
+    border-radius: 138px;
+    border: none;
+}
+.pustota2{
+    width: 1037px;
+    height: 66px;
+}
+.images{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
+.seoul{
+    margin: 9px;
+    display: block;
+    background-image: url(images/seoul.ka.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 120px; 
+    width: 175px;
+    border-radius: 10px;
+}
+.busan{
+    margin: 9px;
+    display: block;
+    background-image: url(images/busan.kb.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 120px; 
+    width: 175px;
+    border-radius: 10px;
+}
+.tegu{
+    margin: 9px;
+    display: block;
+    background-image: url(images/tegu.kc.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 120px; 
+    width: 175px;
+    border-radius: 10px; 
+}
+.nomer02{
+    margin: 7px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.nomer03{
+    margin: 7px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.nomer04{
+    margin: 7px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.texts{
+    margin: 7px;
+    width: 120px;
+    height: 131px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFF9F9;
+}
+.textb{
+    margin: 7px;
+    width: 91px;
+    height: 91px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFF9F9;
+}
+.textt{
+    margin: 7px;
+    width: 91px;
+    height: 91px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFF9F9;
+    flex-direction: column-reverse;
+}
+.img1{
+    float: left;
+    width: 510px;
+    height: 340px;
+    background-size: contain;
+    background-image: url(images/fa.jpg);
+    border-radius: 8px;
+}
+.img2{
+    float: right;
+    width: 510px;
+    height: 340px;
+    background-size: contain;
+    background-image: url(images/fb.jpg);
+    border-radius: 8px;
+}
+.two{
+    color: #000;
+}
+.ekran2{
+    margin: 90px;
+}
+.ekran3{
+    margin: 90px;
+}
+.text1{
+    line-height: 40px;
+    margin: 50px;
+}
+.text2{
+    line-height: 40px;
+    margin: 50px;
+}
+.ekran2 h2{
+    font-family: 'Playfair Display', serif;
+    width: 750px;
+    height: 78px;
+    line-height: 42px;
+    font-weight: 550;
+    font-size: 32px;
+}
+.ekran3 h2{
+    font-family: 'Playfair Display', serif;
+    width: 750px;
+    height: 78px;
+    line-height: 42px;
+    font-weight: 550;
+    font-size: 32px;
+}
+.knopka2{
+    margin: 25px;
+    background-color: #ffffff;
+    border: 1px solid #D8743B;
+    color: #D8743B;
+}
+.knopka3{
+    margin: 25px;
+    background-color: #ffffff;
+    border: 1px solid #D8743B;
+    color: #D8743B;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-size: 20px;
+}
+.dvorez{
+    align-items: end;
+}
+.otzov{
+    align-items: end;
+}
+.tx1{
+    margin: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-size: 19px;
+}
+.pustota4{
+    width: 50px;
+    height: 230px;
+}
+.logo2 img {
+    margin: 10px;
+    float: left;
+    width: 70px;
+    height: 70px;
+}
+.footer{
+    width: 2000px;
+    height: 80px;
+    display: inline-flex;
+}
+.footer p{
+    margin: 25px 40px 25px 40px;
+   font-size: 15px;
+}
